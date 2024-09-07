@@ -1,0 +1,53 @@
+[
+    {
+        "name": "7.9 inch (20 cm) Bello Railing D Shape plastic Planters (Mix Color) - Pack Of 6",
+        "price": 759,
+        "description":"This combo pack contains 6 different color plante Make a terrace, balcony, window, and an indoor garden vibrant with these pots.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/1.jpg"
+            },
+            {
+                "image": "/images/2.jpg"
+            }
+        ],
+        "category": "planters",
+        "seller": "nurserylive",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Zephyranthes Lily, Rain Lily (Random color) - Bulbs (set of 10)",
+        "price": 159,
+        "description": "Zephyranthes can be deciduous or evergreen bulbous perennials, with linear leaves and funnel-shaped or crocus-like flowers in spring, summer or autumn.Leaves are a deep glossy green and measure 3 mm wide. Flowers, which at first resemble a new leaf, but emerge from their papery sheaves to a stunning whiteness; they are erect in perianth.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/3.jpg"
+            }
+        ],
+        "category": "seeds",
+        "seller": "nurserylive",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Coco peat block - 600 g (Expands Up to 5 - 8 L)",
+        "price": 149,
+        "description": "Coco peat is a soil substitute or addition to it. Known for its good water holding capacity. Expands to 5-8 L.Coco peat is the soilless potting mix. Easy to carry block form.It is lightweight, best for balconies & terrace gardening, easy to carry, saves Water, eco-friendly Organic. Best potting media for seeds germination.",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/4.jpg"
+            }
+        ],
+        "category": "Soils&Fertilizers",
+        "seller": "nurserylive",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    }
+]
